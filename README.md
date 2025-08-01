@@ -104,31 +104,28 @@ Once tested, deploy the agent as an asset within the IBM Watsonx project for acc
 ---
 ## 📸 Final Result Screenshots
 
-### 💬 Query 1: How do I use UPI?
-The agent provides a simple, step-by-step explanation for sending money via UPI.
+### 💬 Query 1: How do I use UPI?  
+The agent provides a simple, step-by-step explanation for sending money using UPI.
 
 ![Result 1 - UPI](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result1.png?raw=true)
 
 ---
 
-### 💬 Query 2: Monthly Budget on ₹20,000 Income
-The agent creates a budget with essential spending categories and savings advice.
+### 💬 Query 2: Monthly Budget on ₹20,000 Income  
+The agent creates a customized monthly budget plan with spending limits and savings suggestions.
 
 ![Result 2 - Budget](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result2.png?raw=true)
 
 ---
 
-### 💬 Query 3: How to spot fake loan apps?
-The agent warns the user about fraud signs and how to stay safe from scams.
+### 💬 Query 3: How can a college student start saving money?  
+The agent suggests actionable saving strategies tailored to student life and limited income.
 
-![Result 3 - Scam Alert](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result3.png?raw=true)
+![Result 3 - Student Saving](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result3.png?raw=true)
 
 ---
 
-### 💬 Query 4: What is a safe interest rate for a loan?
-The agent retrieves trusted data and gives a safe interest rate range from RBI guidelines.
+### 💬 Query 4: Hindi Query 
+The agent responds in Hindi using trusted RBI guidelines to suggest using digital payment safely
 
-![Result 4 - Loan Info](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result4.png?raw=true)
-
-
-
+![Result 4 - Hindi Loan Info](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result4.png?raw=true)
