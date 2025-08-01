@@ -129,3 +129,33 @@ The agent suggests actionable saving strategies tailored to student life and lim
 The agent responds in Hindi using trusted RBI guidelines to suggest using digital payment safely
 
 ![Result 4 - Hindi Loan Info](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result4.png?raw=true)
+
+
+---
+
+## 🔭 Future Scope
+
+- Integration with WhatsApp and Chatbots for wider accessibility
+- Image + Text-based financial query support (e.g., screenshot of scam SMS)
+- Advanced fraud detection using machine learning on scam patterns
+- Mobile app version for rural outreach with offline support
+- AI fine-tuning based on regional queries and languages
+
+---
+
+## 🔗 Useful Links
+
+- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai) – Platform used for building the AI agent  
+- [NPCI – UPI Info](https://www.npci.org.in/what-we-do/upi/product-overview) – Verified source for UPI knowledge  
+- [RBI Financial Literacy](https://www.rbi.org.in/commonperson/English/Scripts/FinancialEducation.aspx) – RBI’s official awareness portal  
+- [GitHub Project Repository](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent) – Source code, documentation, and screenshots  
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+
