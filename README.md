@@ -101,4 +101,34 @@ Once tested, deploy the agent as an asset within the IBM Watsonx project for acc
 
 ![Step 8 - Deployment](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/deployment.png?raw=true)
 
+---
+## 📸 Final Result Screenshots
+
+### 💬 Query 1: How do I use UPI?
+The agent provides a simple, step-by-step explanation for sending money via UPI.
+
+![Result 1 - UPI](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result1.png?raw=true)
+
+---
+
+### 💬 Query 2: Monthly Budget on ₹20,000 Income
+The agent creates a budget with essential spending categories and savings advice.
+
+![Result 2 - Budget](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result2.png?raw=true)
+
+---
+
+### 💬 Query 3: How to spot fake loan apps?
+The agent warns the user about fraud signs and how to stay safe from scams.
+
+![Result 3 - Scam Alert](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result3.png?raw=true)
+
+---
+
+### 💬 Query 4: What is a safe interest rate for a loan?
+The agent retrieves trusted data and gives a safe interest rate range from RBI guidelines.
+
+![Result 4 - Loan Info](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result4.png?raw=true)
+
+
 
