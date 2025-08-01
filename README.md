@@ -51,7 +51,7 @@ Start by naming your agent, defining its goal, and describing the tasks it will 
 ---
 
 ### ✅ Step 2: Choose a Foundation Model  
-Select the IBM Granite model for generating accurate, trusted financial responses.
+Select the  for generating accurate, trusted financial responses.
 
 ![Step 2 - Foundation Model](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/model.png?raw=true)
 
