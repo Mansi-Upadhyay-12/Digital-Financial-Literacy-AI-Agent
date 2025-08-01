@@ -39,8 +39,6 @@ An AI-powered **Digital Financial Literacy Agent** that:
 | **IBM Watsonx Agent Lab** | AI Agent creation & deployment |
 | **IBM Granite Foundation Model** | NLP + Retrieval capabilities |
 | **RAG (Retrieval-Augmented Generation)** | Trusted content generation |
-| **Python & Flask** | Backend APIs (optional) |
-| **HTML/CSS/JS** | Frontend UI |
 | **Git & GitHub** | Version control & collaboration |
 
 ---
