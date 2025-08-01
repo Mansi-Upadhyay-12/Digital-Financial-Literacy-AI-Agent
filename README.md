@@ -1,7 +1,7 @@
 # Digital-Financial-Literacy-AI-Agent
 # 💡 AI Agent for Digital Financial Literacy  
 **Empowering Every Citizen with Safe, Smart, and Inclusive Financial Knowledge**  
-🚀 Built using IBM Watsonx + Granite + RAG | 🔐 Fraud Prevention | 🌐 Multilingual | 🏆 AICTE-IBM Hackathon Project
+🚀 Built using IBM Watsonx + Granite + RAG | 🔐 Fraud Prevention | 🌐 Multilingual | 🏆 AICTE-IBM SkillsBuid Intrnship Project
 
 ---
 
