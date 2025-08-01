@@ -53,7 +53,7 @@ Start by naming your agent, defining its goal, and describing the tasks it will 
 ### ✅ Step 2: Choose a Foundation Model  
 Select the IBM Granite model for generating accurate, trusted financial responses.
 
-![Step 2 - Foundation Model](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/Agent%20model.png?raw=true)
+![Step 2 - Foundation Model](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/model.png?raw=true)
 
 ---
 
@@ -68,14 +68,14 @@ Provide sample prompts like “How do I use UPI?” or “What is a safe loan in
 ### ✅ Step 4: Choose Framework & Reasoning Architecture  
 Select **LangGraph** as the framework and **ReAct** as the reasoning method for agentic workflows.
 
-![Step 4 - Framework Setup](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/Agent%20Instructions.png?raw=true)
+![Step 4 - Framework Setup](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/Agent%20Architechture.png?raw=true)
 
 ---
 
 ### ✅ Step 5: Define Agent Instructions  
 Specify behavior instructions like language preferences, tone, and response formatting.
 
-![Step 5 - Instructions](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/Framework%20and%20Architechture.png?raw=true)
+![Step 5 - Instructions](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/Framework%20and%20Instructions.png?raw=true)
 
 ---
 
