@@ -1,5 +1,5 @@
 # 🤖 Digital Financial Literacy AI Agent
----
+
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 ![Built with IBM Watsonx](https://img.shields.io/badge/Built%20with-IBM%20Watsonx-blue)
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
