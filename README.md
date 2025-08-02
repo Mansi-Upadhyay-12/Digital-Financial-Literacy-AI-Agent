@@ -68,15 +68,14 @@ An AI-powered *Digital Financial Literacy Agent* that:
 
 | Step | Screenshot |
 |------|------------|
-| ✅ *Step 1: Setup Agent* | ![Setup](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/Agent%20Setup.png?raw=true) |
-| ✅ *Step 2: Choose Model* | ![Model](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/model.png?raw=true) |
-| ✅ *Step 3: Sample Prompts* | ![Prompts](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/Quick%20Questions.png?raw=true) |
-| ✅ *Step 4: Framework Setup* | ![Framework](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/Framework%20and%20Architechture.png?raw=true) |
-| ✅ *Step 5: Agent Instructions* | ![Instructions](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/Agent%20Instructions.png?raw=true) |
-| ✅ *Step 6: Add Tools* | ![Tools](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/Tools.png?raw=true) |
-| ✅ *Step 7: Preview Agent* | ![Preview](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/Agent%20Preview.png?raw=true) |
-| ✅ *Step 8: Deploy Agent* | ![Deploy](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/deployment.png?raw=true) |
-
+| ✅ *Step 1: Setup Agent*         | ![Setup](implementation-steps/Agent%20Setup.png) |
+| ✅ *Step 2: Choose Model*        | ![Model](implementation-steps/model.png) |
+| ✅ *Step 3: Sample Prompts*      | ![Prompts](implementation-steps/Quick%20Questions.png) |
+| ✅ *Step 4: Framework Setup*     | ![Framework](implementation-steps/Framework%20and%20Architechture.png) |
+| ✅ *Step 5: Agent Instructions*  | ![Instructions](implementation-steps/Agent%20Instructions.png) |
+| ✅ *Step 6: Add Tools*           | ![Tools](implementation-steps/Tools.png) |
+| ✅ *Step 7: Preview Agent*       | ![Preview](implementation-steps/Agent%20Preview.png) |
+| ✅ *Step 8: Deploy Agent*        | ![Deploy](implementation-steps/deployment.png) |
 ---
 
 ## 🌟 User Interaction Showcase
