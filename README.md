@@ -1,5 +1,8 @@
 # Digital-Financial-Literacy-AI-Agent
-# 💡 AI Agent for Digital Financial Literacy  
+# 💡 AI Agent for Digital Financial Literacy 
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Built with IBM Watsonx](https://img.shields.io/badge/Built%20with-IBM%20Watsonx-blue)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 **Empowering Every Citizen with Safe, Smart, and Inclusive Financial Knowledge**  
 🚀 Built using IBM Watsonx + Granite + RAG | 🔐 Fraud Prevention | 🌐 Multilingual | 🏆 AICTE-IBM SkillsBuild Intrnship Project
 
