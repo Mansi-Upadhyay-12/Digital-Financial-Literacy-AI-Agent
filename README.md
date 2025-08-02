@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/banner.png" alt="Digital Financial Literacy AI Agent" width="100%" />
-</p>
 
 # 🤖 Digital Financial Literacy AI Agent
 
@@ -15,18 +12,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/banner.png" alt="Digital Financial Literacy AI Agent" width="65%" />
+</p>
 
-## 📚 Table of Contents
-
-- [🔍 Problem Statement](#-problem-statement)
-- [✅ Proposed Solution](#-proposed-solution)
-- [🧠 Key Features](#-key-features)
-- [🛠 Tech Stack](#-tech-stack)
-- [🖼 Demo Walkthrough](#-demo-walkthrough)
-- [📸 Final Result Screenshots](#-final-result-screenshots)
-- [🔭 Future Scope](#-future-scope)
-- [🔗 Useful Links](#-useful-links)
-- [📄 License](#-license)
 
 ---
 
