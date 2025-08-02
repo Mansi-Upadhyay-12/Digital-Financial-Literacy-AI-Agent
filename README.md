@@ -13,7 +13,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/banner.png" alt="Digital Financial Literacy AI Agent" width="65%" />
+  <img src="https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/banner.png" alt="Digital Financial Literacy AI Agent" width="55%" />
 </p>
 
 
