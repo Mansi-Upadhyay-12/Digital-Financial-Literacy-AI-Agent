@@ -1,21 +1,14 @@
-
 # 🤖 Digital Financial Literacy AI Agent
-
-  <img src="https://img.shields.io/badge/license-MIT-green" /><img src="https://img.shields.io/badge/Built%20with-IBM%20Watsonx-blue" /><img src="https://img.shields.io/badge/Project-Active-brightgreen" />
-</p>
-
----
+<img src="https://img.shields.io/badge/license-MIT-green" /><img src="https://img.shields.io/badge/Built%20with-IBM%20Watsonx-blue" /><img src="https://img.shields.io/badge/Project-Active-brightgreen" />
 
 Empowering Every Citizen with Safe, Smart, and Inclusive Financial Knowledge  
 Built using IBM Watsonx, Granite, RAG, and multilingual AI — submitted as part of the IBM-AICTE SkillsBuild Internship Project
 
 ---
 
-
 <p align="center">
   <img src="https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/banner.png" alt="Digital Financial Literacy AI Agent" width="55%" />
 </p>
-
 
 ---
 
@@ -71,7 +64,6 @@ An AI-powered *Digital Financial Literacy Agent* that:
 
 ---
 
-
 ## 🖼 Demo Walkthrough
 
 | Step | Screenshot |
@@ -87,28 +79,27 @@ An AI-powered *Digital Financial Literacy Agent* that:
 
 ---
 
-## 🌟 Real-World Use Cases (Screenshots)
+## 🌟 User Interaction Showcase
 
-Here are real examples of how our AI Agent helps users:
+Real usage examples from the deployed AI Agent:
 
 - 👤 **User 1:** *"How do I use UPI?"*  
   👉 *Agent explains UPI in easy steps.*  
-  ![UPI Help](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result1.png?raw=true)
+  ![UPI Help](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/agent-demo-screenshots/result1.png?raw=true)
 
 - 👤 **User 2:** *"How to manage my ₹20,000 income?"*  
   👉 *Gives a budget breakdown: ₹6k rent, ₹5k food, ₹3k savings, etc.*  
-  ![Budget Advice](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result2.png?raw=true)
+  ![Budget Advice](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/agent-demo-screenshots/result2.png?raw=true)
 
 - 👤 **User 3:** *"Any tips for student saving?"*  
   👉 *Agent suggests budgeting apps, thrift ideas, discounts.*  
-  ![Student Tips](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result3.png?raw=true)
+  ![Student Tips](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/agent-demo-screenshots/result3.png?raw=true)
 
 - 👤 **User 4:** *"Mujhe Hindi me batayein" (Tell me in Hindi)*  
   👉 *Agent answers in Hindi using official RBI info.*  
-  ![Hindi Support](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/result4.png?raw=true)
+  ![Hindi Support](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/agent-demo-screenshots/result4.png?raw=true)
 
-
-
+---
 
 ## 🔭 Future Scope
 
@@ -137,6 +128,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Made with ❤ by *[Mansi Upadhyay](https://github.com/Mansi-Upadhyay-12)*  
+Made with ❤ by *[Mansi Upadhyay](https://github.com/Mansi-Upadhyay-12)*
+
 
 
