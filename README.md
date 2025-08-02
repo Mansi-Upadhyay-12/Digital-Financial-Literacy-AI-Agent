@@ -1,17 +1,17 @@
 
 # 🤖 Digital Financial Literacy AI Agent
 
-<p align="center">
-  <i>Empowering Every Citizen with Safe, Smart, and Inclusive Financial Knowledge</i>  
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-green" />
-  <img src="https://img.shields.io/badge/Built%20with-IBM%20Watsonx-blue" />
-  <img src="https://img.shields.io/badge/Project-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/license-MIT-green" /><img src="https://img.shields.io/badge/Built%20with-IBM%20Watsonx-blue" /><img src="https://img.shields.io/badge/Project-Active-brightgreen" />
 </p>
 
 ---
+
+Empowering Every Citizen with Safe, Smart, and Inclusive Financial Knowledge  
+Built using IBM Watsonx, Granite, RAG, and multilingual AI — submitted as part of the IBM-AICTE SkillsBuild Internship Project
+
+---
+
+
 <p align="center">
   <img src="https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/banner.png" alt="Digital Financial Literacy AI Agent" width="55%" />
 </p>
@@ -21,9 +21,12 @@
 
 ## 🔍 Problem Statement
 
-Millions—especially in rural or non-English-speaking regions—struggle to understand and use digital financial tools like UPI, digital loans, and savings apps safely.
+Millions of people, especially in rural or non-English-speaking regions, face difficulty understanding digital financial tools like UPI, interest rates, loans, or scams.
 
-> 💥 Existing awareness efforts are often *generic, **limited, and fail to **personalize learning* for diverse users.
+### 📉 Manual awareness programs:
+- Are limited in reach  
+- Cannot adapt to each user's needs  
+- Often miss out on multilingual support  
 
 ---
 
@@ -56,6 +59,18 @@ An AI-powered *Digital Financial Literacy Agent* that:
 | 🗃 Git & GitHub | Version control & collaboration |
 
 ---
+
+## 🚀 Wow Features
+
+✅ Personalized answers (e.g., safe loan for ₹10k/month earner)  
+🌐 Multilingual support for regional inclusivity  
+⚠️ Scam alerts for fake UPI links, fraud apps  
+💡 Simplifies financial terms for first-time users  
+📱 Works even on low-end devices, no app needed  
+🔁 Automatically updated with new government rules  
+
+---
+
 
 ## 🖼 Demo Walkthrough
 
