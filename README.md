@@ -100,17 +100,20 @@ Real usage examples from the deployed AI Agent:
 
   ---
 
+
 ## 🎥 Demo Video – Watch it in Action!
 
 🔗 Click below to see the full working AI Agent in action:
 
-[![Watch Demo](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/demo-thumbnail.png?raw=true)](https://drive.google.com/file/d/1as6dOLvNpmMka-6L1sSmLOFW2CENCvMR/view?usp=drive_link)
+[![Watch Demo](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/agent-demo-screenshots/demo-thumbnail.png?raw=true)](https://drive.google.com/file/d/1as6dOLvNpmMka-6L1sSmLOFW2CENCvMR/view?usp=drive_link)
 
 ⬆️ Click the image above to watch the full demo video on Google Drive
 
 ---
 
 [![Watch Demo Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1as6dOLvNpmMka-6L1sSmLOFW2CENCvMR/view?usp=drive_link)
+
+---
 
 
 
