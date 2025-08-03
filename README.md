@@ -115,7 +115,7 @@ Real usage examples from the deployed AI Agent:
 
 ---
 
-
+## 🌟 Future Scope
 
 - 🤖 *WhatsApp & Chatbot Integration* – Wider reach to mobile users  
 - 🖼 *Image + Text Query Support* – Understand screenshots of scam messages  
