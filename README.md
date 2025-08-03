@@ -98,13 +98,20 @@ Real usage examples from the deployed AI Agent:
   👉 *Agent answers in Hindi using official RBI info.*  
   ![Hindi Support](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/agent-demo-screenshots/result4.png?raw=true)
 
+  ---
+
+## 🎥 Demo Video – Watch it in Action!
+
+🔗 Click below to see the full working AI Agent in action:
+
+[![Watch Demo](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/demo-thumbnail.png?raw=true)](https://drive.google.com/file/d/1as6dOLvNpmMka-6L1sSmLOFW2CENCvMR/view?usp=drive_link)
+
+⬆️ Click the image above to watch the full demo video on Google Drive
+
 ---
-## 🎥 Demo
 
-🎥 [Watch Demo Video](https://drive.google.com/file/d/1as6dOLvNpmMka-6L1sSmLOFW2CENCvMR/view?usp=drive_link)
+[![Watch Demo Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1as6dOLvNpmMka-6L1sSmLOFW2CENCvMR/view?usp=drive_link)
 
-
----
 
 
 - 🤖 *WhatsApp & Chatbot Integration* – Wider reach to mobile users  
