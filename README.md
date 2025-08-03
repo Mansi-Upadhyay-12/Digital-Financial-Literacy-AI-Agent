@@ -99,8 +99,13 @@ Real usage examples from the deployed AI Agent:
   ![Hindi Support](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/agent-demo-screenshots/result4.png?raw=true)
 
 ---
+## 🎥 Demo
 
-## 🔭 Future Scope
+🎥 [Watch Demo Video](https://drive.google.com/file/d/1as6dOLvNpmMka-6L1sSmLOFW2CENCvMR/view?usp=drive_link)
+
+
+---
+
 
 - 🤖 *WhatsApp & Chatbot Integration* – Wider reach to mobile users  
 - 🖼 *Image + Text Query Support* – Understand screenshots of scam messages  
