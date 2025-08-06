@@ -87,7 +87,7 @@ Real usage examples from the deployed AI Agent:
   ![UPI Help](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/agent-demo-screenshots/result1.png?raw=true)
 
 - 👤 **User 2:** *"How to manage my ₹20,000 income?"*  
-  👉 *Gives a budget breakdown: ₹6k rent, ₹5k food, ₹3k savings, etc.*  
+  👉 *Gives a budget breakdown: ₹5k rent, ₹4k food, ₹3k savings, etc.*  
   ![Budget Advice](https://github.com/Mansi-Upadhyay-12/Digital-Financial-Literacy-AI-Agent/blob/main/agent-demo-screenshots/result2.png?raw=true)
 
 - 👤 **User 3:** *"Any tips for student saving?"*  
